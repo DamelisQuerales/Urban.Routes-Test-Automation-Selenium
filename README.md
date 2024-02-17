@@ -70,4 +70,4 @@ Beneficios del POM:
 La automatización de las pruebas de la aplicación Urban.Routes con Selenium ha demostrado ser una herramienta eficaz para mejorar la calidad y la confiabilidad de la aplicación. Las pruebas automatizadas ayudan a garantizar que la aplicación funcione correctamente y que los usuarios tengan una experiencia satisfactoria.
 
 Los resultados obtenidos:
-9 Casos de prueba --> PASSED [100%]
+8 Casos de prueba --> PASSED [100%]
